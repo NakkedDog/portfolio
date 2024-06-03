@@ -4,14 +4,14 @@
 Bachelor of Engineering
 Sirindhorn International Institute of Technology (SIIT),
 Thammasat University
-Relevant Coursework:
-Data Mining and Machine Learning, Data Structures and Algorithms, DatabaseProgramming Laboratory, System Analysis and Design, Big Data Analytic, Statistics and Data Modeling, and Data Visualization
+- Relevant Coursework:
+- Data Mining and Machine Learning, Data Structures and Algorithms, DatabaseProgramming Laboratory, System Analysis and Design, Big Data Analytic, Statistics and - - Data Modeling, and Data Visualization
 
 Exchange Program ( 1 semester)
 Bachelor of Science
 Informatik, Technical University of Munich (TUM)
-Relevant Coursework:
-Deep learning, Machine learning Basics, Training Neural Networks, Convolutional Neural Networks, Advanced Natural Language Processing, Auto-Summarization,  Modern Transformer-based architectures & XAI for NLP and Conversational AI and the link to symbolic AI.
+- Relevant Coursework:
+- Deep learning, Machine learning Basics, Training Neural Networks, Convolutional Neural Networks, Advanced Natural Language Processing, Auto-Summarization,  Modern Transformer-based architectures & XAI for NLP and Conversational AI and the link to symbolic AI.
 
 ### Python Projects
 Semantic Segmentation
