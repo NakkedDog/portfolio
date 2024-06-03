@@ -22,7 +22,7 @@ Medical Segmentation
 - Classify breast cancer from ultrasound images dataset.
 - Using U-net architecture to encode and create gourd truth image then train Convalutional Neural Network (CNN) to classify the image.
 
-House Price Prediction using Machine Learning (Data from GHBank)
+House Price Prediction using Machine Learning
 - Clean and preprocess the data, handling missing values and outliers, and encode categorical variables. Feature scaling and normalization may also be applied to ensure consistent model performance.
 - Choose a suitable machine learning algorithm for regression tasks, such as decision trees, random forests, or support vector machines. Consider ensemble methods for improved accuracy.
 - Evaluate the model's performance using metrics like Mean Squared Error (MSE) or Root Mean Squared Error (RMSE) on the testing set. Adjust the model if needed for better accuracy.
