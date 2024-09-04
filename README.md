@@ -25,10 +25,10 @@ Choose a suitable machine learning algorithm for regression tasks, such as decis
 House Price Data Visualization Using PowerBI
 - Overview: Developed an interactive dashboard to analyze and visualize a comprehensive house price dataset. The project aimed to provide key insights into the housing market, supporting data-driven decision-making for real estate professionals and investors.-
 - Key Features:
-- Metrics and Trends: Presented average and median house prices, price distributions, and trends over time to showcase market dynamics.
-- Comparative Analysis: Compared house prices across regions, property types, and other dimensions using bar charts, and line charts
-- Detailed Insights: Included analysis of price by square footage and days on the market.
-- Advanced Analytics: Conducted correlation analysis to explore relationships between house prices and other factors. Incorporated predictive analytics for future price estimation.
+  - Metrics and Trends: Presented average and median house prices, price distributions, and trends over time to showcase market dynamics.
+  - Comparative Analysis: Compared house prices across regions, property types, and other dimensions using bar charts, and line charts
+  - Detailed Insights: Included analysis of price by square footage and days on the market.
+  - Advanced Analytics: Conducted correlation analysis to explore relationships between house prices and other factors. Incorporated predictive analytics for future price estimation.
 - Tools and Technologies: Utilized Power BI to create the dashboard, applying data visualization best practices and statistical methods to ensure accuracy and clarity.
 Semantic Segmentation
 - Classify each individual pixel within the image form MSRC-v2 Segmentation Dataset with Pre-trained models and Convalutional Neural Network (CNN).
