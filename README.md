@@ -30,6 +30,7 @@ House Price Data Visualization Using PowerBI
   - Detailed Insights: Included analysis of price by square footage and days on the market.
   - Advanced Analytics: Conducted correlation analysis to explore relationships between house prices and other factors. Incorporated predictive analytics for future price estimation.
 - Tools and Technologies: Utilized Power BI to create the dashboard, applying data visualization best practices and statistical methods to ensure accuracy and clarity.
+
 Semantic Segmentation
 - Classify each individual pixel within the image form MSRC-v2 Segmentation Dataset with Pre-trained models and Convalutional Neural Network (CNN).
 - Using Alexnet (Pre-trained) models as a encoder and Convalutional layer as decoder.
