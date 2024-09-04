@@ -21,6 +21,7 @@ House Price Prediction using Machine Learning (Data from GHBank)
 Choose a suitable machine learning algorithm for regression tasks, such as decision trees, random forests, or support vector machines. Consider ensemble methods for improved accuracy.
 - Evaluate the model's performance using metrics like Mean Squared Error (MSE) or Root Mean Squared Error (RMSE) on the testing set. Adjust the model if needed for better accuracy.
 - Develop and visualize a comprehensive dashboard tailored for analysts, which highlights meaningful insights derived from the dataset. This includes importing the data, cleaning and transforming it as necessary, and using various visualization techniques to present the data in an informative and interactive manner.
+
 ### Mini Projects
 House Price Data Visualization Using PowerBI
 - Overview: Developed an interactive dashboard to analyze and visualize a comprehensive house price dataset. The project aimed to provide key insights into the housing market, supporting data-driven decision-making for real estate professionals and investors.-
