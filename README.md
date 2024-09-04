@@ -34,8 +34,9 @@ House Price Data Visualization Using PowerBI
 Semantic Segmentation
 - Classify each individual pixel within the image form MSRC-v2 Segmentation Dataset with Pre-trained models and Convalutional Neural Network (CNN).
 - Using Alexnet (Pre-trained) models as a encoder and Convalutional layer as decoder.
+- 
 ### Internship/Work Experience
-IT assistant at Infineon
-- Developed and deployed data into the company .Net website
-
-
+IT assistant at Infineon (Oracle Database)
+- Extracted data from Oracle databases using SQL queries and displayed it on Infineon's .Net website.
+- Ensured accurate and efficient data retrieval through query optimization and integration with the .Net framework.
+- Collaborated with the IT team to maintain data integrity and reliability across web-based applications.
