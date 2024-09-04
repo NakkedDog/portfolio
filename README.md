@@ -23,7 +23,9 @@ Choose a suitable machine learning algorithm for regression tasks, such as decis
 - Develop and visualize a comprehensive dashboard tailored for analysts, which highlights meaningful insights derived from the dataset. This includes importing the data, cleaning and transforming it as necessary, and using various visualization techniques to present the data in an informative and interactive manner.
 
 ### Mini Projects
+
 House Price Data Visualization Using PowerBI
+
 - Overview: Developed an interactive dashboard to analyze and visualize a comprehensive house price dataset. The project aimed to provide key insights into the housing market, supporting data-driven decision-making for real estate professionals and investors.-
 - Key Features:
   - Metrics and Trends: Presented average and median house prices, price distributions, and trends over time to showcase market dynamics.
@@ -35,8 +37,9 @@ House Price Data Visualization Using PowerBI
 Semantic Segmentation
 - Classify each individual pixel within the image form MSRC-v2 Segmentation Dataset with Pre-trained models and Convalutional Neural Network (CNN).
 - Using Alexnet (Pre-trained) models as a encoder and Convalutional layer as decoder.
-- 
+
 ### Internship/Work Experience
+
 IT assistant at Infineon (Oracle Database)
 - Extracted data from Oracle databases using SQL queries and displayed it on Infineon's .Net website.
 - Ensured accurate and efficient data retrieval through query optimization and integration with the .Net framework.
